@@ -1,0 +1,332 @@
+.deliverytoaddcontainer .adderssline {
+                    color: #fff !important;
+                }
+                
+                .footer-section-sp {
+                    color: #42484b !important;
+                    text-align: left;
+                    display: inline;
+                    line-height: 22px;
+                }
+                
+                .social-footer-icons>div {
+                    font-family: Apercumedium, sans-serif;
+                    font-weight: normal;
+                    color: #42484b;
+                    font-size: 13px;
+                    background-color: #f4f4f4;
+                }
+                
+                .fa {
+                    padding-right: 7px;
+                }
+                
+                .footer-section-space .ui-accordion-header .ui-accordion-header-icon,
+                .svg-icons--down_arrow_white {
+                    background-position: 18.978102189781023% 100% !important;
+                }
+                
+                .accordian-stay-stylish .subscription-email,
+                .footer-right-sec .subscription-email {
+                    background: #fff !important;
+                }
+                
+                .accordian-stay-stylish .label_item,
+                .footer-right-sec .label_item {
+                    background: #fff !important;
+                }
+                
+                .footer {
+                    background-color: #fff !important;
+                }
+                
+                .footer-bootom-sec>div {
+                    font-family: Apercumedium, sans-serif;
+                    font-weight: normal;
+                    color: #42484b;
+                    font-size: 13px;
+                    background-color: #ffc630;
+                    padding: 15px 0 !important;
+                }
+                
+                .footer-section-copy-text {
+                    float: left;
+                }
+                
+                .sign-in-sp {
+                    float: right;
+                }
+                
+                .footer h2 {
+                    margin-top: 37px;
+                    margin-bottom: 4px;
+                }
+                
+                .footer .menus-title {
+                    text-transform: none !important;
+                    color: #42484b !important;
+                    font-size: 18px !important;
+                    font-family: Apercumedium, sans-serif !important;
+                    font-weight: normal !important;
+                }
+                
+                .desk-hidden nav.headermenu .left-nav-acc-head.ui-accordion-header,
+                .footer .menus-title,
+                .footer-section-sp,
+                .menus-item {
+                    font-family: Apercumedium, sans-serif !important;
+                }
+                
+                .footer .footer-bootom-sec .text-case {
+                    color: #42484b !important;
+                    text-decoration: none !important;
+                }
+                
+                .menus-item,
+                .menus-item a {
+                    color: #42484b !important;
+                }
+                
+                .accordian-stay-stylish .subscription-email,
+                .footer-right-sec .subscription-email {
+                    border: 1px solid #42484b;
+                }
+                
+                .administration {
+                    margin: 30px auto 0px auto;
+                }
+                
+                .administration p {
+                    font-family: Apercuregular, sans-serif;
+                    font-size: 21px;
+                    font-style: italic;
+                }
+                
+                .administration p {
+                    font-family: Apercuregular, sans-serif;
+                    font-size: 21px;
+                    font-style: italic;
+                    font-size: 12px;
+                }
+                
+                .administration p:first-child {
+                    font-family: Apercubold, sans-serif;
+                    font-weight: normal;
+                }
+                
+                @media only screen and (max-width: 1060px) {
+                    .fa {
+                        padding-right: 4px;
+                    }
+                }
+                
+                @media only screen and (max-width: 1023px) {
+                    .fa {
+                        padding-right: 7px;
+                    }
+                    .footer .menus-title {
+                        border-bottom: 1px solid #42484b !important;
+                    }
+                    .footer .footer-bootom-sec .footer-section-copy-text,
+                    .footer-bootom-sec .footer-section-copy p {
+                        margin: 0 !important;
+                    }
+                }
+                
+                @media only screen and (max-width: 767px) {
+                    .footer-bootom-sec .footer-section-copy .sign-in-sp {
+                        float: none;
+                        padding: 10px 0 0px !important;
+                    }
+                    .footer-section-copy-text {
+                        float: none;
+                    }
+                }
+                
+                .footer-bootom-sec .footer-legals,
+                .footer-bootom-sec .footer-section-copy {
+                    left: 0px !important;
+                    padding: 10px 0 8px !important;
+                }
+                
+                .footer-bottom-outer {
+                    background-color: #ffc630 !important;
+                    width: 100%;
+                    margin-top: 20px;
+                }
+                
+                .footer .footer-bootom-sec .text-case {
+                    text-decoration: none !important;
+                }
+                
+                @media only screen and (max-width: 767px) {
+                    .footer-bootom-sec {
+                        display: table;
+                    }
+                    .footer-bootom-sec .footer-legals {
+                        display: table-header-group;
+                    }
+                }
+                
+                .site-footer {
+                    border-top: none;
+                }
+                
+                .accordian-stay-stylish .subscribe-submit .submit-arrw,
+                .accordian-stay-stylish .subscribe-submit.darkgray .submit-arrw,
+                .footer-right-sec .subscribe-submit .submit-arrw {
+                    background-position: 10px !important;
+                }
+                
+                .newsletter-sex .sex-women {
+                    margin-left: 0% !important;
+                }
+                
+                .col-lg-2-customised {
+                    width: 12.666667%;
+                }
+                
+                .col-lg-2-customised-2 {
+                    width: 10.666667%;
+                }
+                
+                .col-lg-5-customised {
+                    width: 46.666667%;
+                }
+                
+                .social-footer-outer {
+                    background-color: #f4f4f4;
+                }
+                
+                .accordian-stay-stylish .subscribe-submit,
+                .footer-right-sec .subscribe-submit {
+                    background-color: #42484b !important;
+                    background: url(http://stgjgruk.d.ecommera.net/on/demandware.static/-/Sites-JGRUK-Library/default/dw7d278e98/SS17/pages/grey-box-with-arrow.svg) center center no-repeat;
+                    min-height: 29px;
+                }
+                
+                .accordian-stay-stylish input.checkbox-gen[type=radio]:checked+.label_item:after,
+                .footer-right-sec input.checkbox-gen[type=radio]:checked+.label_item:after {
+                    background: #42484b !important;
+                }
+                
+                .accordian-stay-stylish input.checkbox-gen[type=radio]:checked+.label_item,
+                .accordian-stay-stylish input.checkbox-gen[type=radio]:not(:checked)+.label_item,
+                .footer-right-sec input.checkbox-gen[type=radio]:checked+.label_item,
+                .footer-right-sec input.checkbox-gen[type=radio]:not(:checked)+.label_item {
+                    border: 1px solid #42484b !important;
+                }
+                
+                .accordian-stay-stylish .newsletter-sex,
+                .footer-right-sec .newsletter-sex {
+                    padding: 17px 0 !important;
+                }
+                
+                .accordian-stay-stylish .subscribe-submit,
+                .footer-right-sec .subscribe-submit {
+                    margin-top: 10px;
+                }
+                
+                .sp-email {
+                    padding: 10px 0;
+                }
+                
+                .txt-align {
+                    padding: 17px 0;
+                }
+                
+                .accordian-stay-stylish .subscription-email,
+                .footer-right-sec .subscription-email {
+                    color: #42484b !important;
+                }
+                
+                .newsletter-sex .sex-men,
+                .newsletter-sex .sex-both {
+                    margin-left: 0 !important;
+                }
+                
+                @media only screen and (max-width: 1679px) {
+                    .accordian-stay-stylish .label_item,
+                    .footer-right-sec .label_item {
+                        width: 21px !important;
+                        height: 21px !important;
+                    }
+                    .accordian-stay-stylish input.checkbox-gen[type=radio]:checked+.label_item:after,
+                    .footer-right-sec input.checkbox-gen[type=radio]:checked+.label_item:after {
+                        width: 17px !important;
+                        height: 17px !important;
+                    }
+                    .footer-right-sec .newsletter-sex {
+                        padding: 17px 0 !important;
+                    }
+                    .newsletter-sex .label-radio {
+                        line-height: 21px;
+                    }
+                    .sp-email {
+                        padding: 12px 0;
+                    }
+                    .accordian-stay-stylish .subscribe-submit,
+                    .footer-right-sec .subscribe-submit {
+                        margin-top: 10px;
+                    }
+                    .accordian-stay-stylish .subscribe-submit,
+                    .footer-right-sec .subscribe-submit {
+                        height: 30px;
+                        top: 1px;
+                        right: 1px;
+                        padding: 0px 11px;
+                    }
+                }
+                
+                @media only screen and (max-width: 1023px) {
+                    .accordian-stay-stylish .subscribe-submit,
+                    .footer-right-sec .subscribe-submit {
+                        margin-top: 9px;
+                    }
+                    .sp-email {
+                        padding: 6px 0;
+                        margin-top: 0px;
+                        margin-left: 3px;
+                    }
+                    .col-lg-2-customised {
+                        width: 13.666667%;
+                    }
+                    .col-lg-2-customised-2 {
+                        width: 11.666667%;
+                    }
+                    .col-lg-5-customised {
+                        width: 60.666667%;
+                    }
+                    .footer .menus-title {
+                        background: #fff;
+                    }
+                }
+                
+                @media only screen and (max-width: 767px) {
+                    .footer-section-sp {
+                        display: block !important;
+                    }
+                    .social-footer-outer h2 {
+                        display: block !important;
+                    }
+                    .accordian-stay-stylish .newsletter-sex-wb,
+                    .footer-right-sec .newsletter-sex-wb {
+                        padding-left: 12px!important;
+                    }
+                    .txt-align {
+                        padding: 17px 0 5px 0;
+                    }
+                    .col-lg-5-customised {
+                        width: 100%;
+                    }
+                    .col-lg-2-customised {
+                        width: 31.666667%;
+                    }
+                    .col-lg-2-customised-2 {
+                        width: 32.666667%;
+                    }
+                    .accordian-stay-stylish .subscribe-submit,
+                    .footer-right-sec .subscribe-submit {
+                        margin-top: 5px;
+                    }
+                }
